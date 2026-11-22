@@ -1,0 +1,32 @@
+{
+  "name": "ai-resume-analyzer-backend",
+  "version": "2.0.0",
+  "description": "AI Resume Analyzer API: resume vs job description scoring with Gemini, MongoDB Atlas Vector Search and JWT auth",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "seed:jobs": "node scripts/seed-jobs.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mammoth": "^1.9.0",
+    "mongoose": "^8.16.0",
+    "multer": "^2.0.2",
+    "pdf-parse": "1.1.1",
+    "zod": "^3.25.0"
+  }
+}

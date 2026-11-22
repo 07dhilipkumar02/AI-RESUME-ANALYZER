@@ -1,0 +1,98 @@
+[
+  {
+    "title": "MERN Stack Developer",
+    "company": "Northwind Labs (sample)",
+    "location": "Bengaluru",
+    "experience": "1-3 years",
+    "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs", "JWT", "Git"],
+    "description": "Build and maintain customer-facing web applications on the MERN stack. Design REST APIs with Express, model data in MongoDB, implement JWT authentication and role-based access, and ship responsive React interfaces. Work with designers and QA in two-week sprints, review pull requests and fix production issues."
+  },
+  {
+    "title": "AI Full Stack Developer",
+    "company": "Lumen AI (sample)",
+    "location": "Hyderabad",
+    "experience": "2-4 years",
+    "skills": ["React.js", "Node.js", "LLM APIs", "RAG", "Vector Databases", "MongoDB", "Python", "Prompt Engineering"],
+    "description": "Develop LLM-powered product features end to end. Build retrieval-augmented generation pipelines with embeddings and a vector database, design prompts and evaluation sets, and expose features through Node.js APIs consumed by a React frontend. Monitor latency, cost and answer quality in production."
+  },
+  {
+    "title": "Generative AI Engineer",
+    "company": "Cobalt Systems (sample)",
+    "location": "Remote, India",
+    "experience": "2-5 years",
+    "skills": ["Python", "LangChain", "LLM APIs", "Embeddings", "Vector Databases", "FastAPI", "Docker", "AWS"],
+    "description": "Design and deploy generative AI services. Implement RAG over internal documents, build agent workflows with tool calling, containerise services with Docker and deploy on AWS. Write evaluation harnesses to measure hallucination rate and retrieval quality."
+  },
+  {
+    "title": "Frontend Developer (React)",
+    "company": "Pixelcraft Studio (sample)",
+    "location": "Chennai",
+    "experience": "1-3 years",
+    "skills": ["React.js", "JavaScript", "TypeScript", "Tailwind CSS", "Redux", "HTML5", "CSS3", "Jest"],
+    "description": "Turn Figma designs into accessible, responsive React components. Manage state with Redux Toolkit, write unit tests with Jest and React Testing Library, and optimise Core Web Vitals. Collaborate with backend engineers on API contracts."
+  },
+  {
+    "title": "Backend Developer (Node.js)",
+    "company": "Ledgerline Fintech (sample)",
+    "location": "Pune",
+    "experience": "2-4 years",
+    "skills": ["Node.js", "Express.js", "PostgreSQL", "Redis", "REST APIs", "Docker", "Microservices"],
+    "description": "Build secure, high-throughput payment APIs in Node.js. Design PostgreSQL schemas, add Redis caching, write integration tests and run services in Docker. Participate in on-call rotation and incident reviews."
+  },
+  {
+    "title": "Full Stack Developer (Next.js)",
+    "company": "Brightpath EdTech (sample)",
+    "location": "Bengaluru",
+    "experience": "2-3 years",
+    "skills": ["Next.js", "React.js", "TypeScript", "Node.js", "MongoDB", "Vercel", "Tailwind CSS"],
+    "description": "Own features across a Next.js learning platform: server components, API routes, MongoDB models and deployment on Vercel. Improve SEO and page performance, and build internal admin dashboards."
+  },
+  {
+    "title": "Python Developer (NLP)",
+    "company": "Verbatim Analytics (sample)",
+    "location": "Coimbatore",
+    "experience": "1-3 years",
+    "skills": ["Python", "NLP", "spaCy", "scikit-learn", "Flask", "SQL", "Pandas"],
+    "description": "Build text-processing pipelines that extract entities and classify documents. Train and evaluate classical NLP models with spaCy and scikit-learn, expose them through Flask APIs and work with SQL data sources."
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Harbor Tech Services (sample)",
+    "location": "Hosur",
+    "experience": "0-2 years",
+    "skills": ["JavaScript", "React.js", "Node.js", "SQL", "Git", "HTML5", "CSS3"],
+    "description": "Join a services team building web applications for manufacturing and logistics clients. Implement features in React and Node.js, write SQL queries, fix bugs reported by clients and learn code review practices from senior engineers."
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Stratus Cloudworks (sample)",
+    "location": "Bengaluru",
+    "experience": "2-5 years",
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Linux", "GitHub Actions"],
+    "description": "Automate infrastructure with Terraform, run containerised workloads on Kubernetes, and maintain CI/CD pipelines in GitHub Actions. Improve observability and reduce cloud spend."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Quanta Retail AI (sample)",
+    "location": "Gurugram",
+    "experience": "2-4 years",
+    "skills": ["Python", "PyTorch", "TensorFlow", "Machine Learning", "SQL", "MLOps", "AWS"],
+    "description": "Build demand-forecasting and recommendation models. Own the path from feature engineering to deployment, monitor model drift and collaborate with data engineers on pipelines."
+  },
+  {
+    "title": "React Native Developer",
+    "company": "Tapwise Mobile (sample)",
+    "location": "Chennai",
+    "experience": "1-3 years",
+    "skills": ["React Native", "JavaScript", "TypeScript", "Redux", "REST APIs", "Firebase"],
+    "description": "Build cross-platform mobile apps with React Native. Integrate REST APIs and Firebase, manage offline state and publish releases to the Play Store and App Store."
+  },
+  {
+    "title": "Software Engineer - Chatbots",
+    "company": "Converse Labs (sample)",
+    "location": "Remote, India",
+    "experience": "1-3 years",
+    "skills": ["Node.js", "Python", "LLM APIs", "Dialogflow", "NLP", "React.js", "MongoDB"],
+    "description": "Develop conversational assistants for customer support. Integrate LLM APIs with business systems, design conversation flows, store transcripts in MongoDB and build a React admin panel for reviewing conversations."
+  }
+]
